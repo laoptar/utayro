@@ -416,7 +416,7 @@ module.exports = {
     ],
     // 强制使用一致的单引号
     "quotes": [
-      "off",
+      "error",
       "single",
       {
         "avoidEscape": true,
